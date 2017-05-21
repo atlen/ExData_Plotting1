@@ -91,6 +91,8 @@ date. There should be four PNG files and four R code files.
 
 The four plots that you will need to construct are shown below. 
 
+# Comment from student. The weekdays name on the plots are written in russian due to system settings.
+# I leave it as it is without changing the system local time zone because of the names donot hinder to understand the graphs.
 
 ### Plot 1
 
